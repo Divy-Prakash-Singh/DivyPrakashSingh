@@ -3,7 +3,7 @@
 
 # Hi 👋 I'm Divy Prakash Singh
 
-🎓 Computer Science Student at **NIT Kurukshetra**  
+🎓 Student at **NIT Kurukshetra**  
 💻 Full-Stack Web Developer  
 🤖 Currently learning **AI Engineering**
 
@@ -23,7 +23,7 @@ I enjoy:
 
 ---
 
-## 🛠️ Tech Stack
+ Tech Stack
 
 **Frontend:**  
 HTML, CSS, JavaScript, React, Tailwind CSS
@@ -84,7 +84,7 @@ React, HTML, CSS, Three.js
 
 
 
-## 🌱 Currently Learning
+##  Currently Learning
 - AI Engineering (LLMs, production AI systems)
 - Backend system design
 - Open-source collaboration workflows
