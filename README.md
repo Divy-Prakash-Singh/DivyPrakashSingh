@@ -47,7 +47,7 @@ A platform designed to improve interaction between juniors and seniors in colleg
 **Problem it solves:**  
 When I joined college, I found it difficult to know where to start or whom to ask for guidance. This platform helps juniors connect with seniors based on branch, year, and interests.
 
-**Key Features:**
+ Features:
 - Signup using college email ID
 - Juniors can ask questions to seniors
 - Society creation and participation
@@ -61,7 +61,7 @@ Node.js, Tailwind CSS, Supabase
 ### 🔹 Spotify Clone
 A music streaming web app built as a learning project.
 
-**Features:**
+Features:
 - Multiple song collections (feel-good, non-copyright, etc.)
 - Album-based music browsing
 - Mood-based song selection
@@ -82,16 +82,15 @@ My personal portfolio showcasing my skills, projects, and experience.
 **Tech Stack:**  
 React, HTML, CSS, Three.js
 
----
+
 
 ## 🌱 Currently Learning
 - AI Engineering (LLMs, production AI systems)
 - Backend system design
 - Open-source collaboration workflows
 
----
 
-## 📫 Connect With Me
-- GitHub: https://github.com/DivyPrakashSingh  
-- X (Twitter): https://x.com/yourhandle  
-- Portfolio: (add your live link here)
+
+## 📫 Connect With Me 
+- X (Twitter): https://x.com/Divy_31204 
+- Portfolio: https://portfolio-eosin-three-76.vercel.app/
